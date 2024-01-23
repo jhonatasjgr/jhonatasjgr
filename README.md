@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jhonatas G Ribeiro!
+## Olá! Eu sou o Jhonatas Gomes Ribeiro!
  <div>
   <a href="https://github.com/jhonatasjgr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatasjgr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
